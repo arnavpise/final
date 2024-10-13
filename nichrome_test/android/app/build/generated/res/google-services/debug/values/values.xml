@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">589777838243-icckv9sknrfau9679d30blj02sa3pfbg.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">589777838243</string>
+    <string name="google_api_key" translatable="false">AIzaSyB_qS1wtbuqkJafRcVfxUyW2SpQ8QNY6ls</string>
+    <string name="google_app_id" translatable="false">1:589777838243:android:793cac3c651fdf11779f16</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB_qS1wtbuqkJafRcVfxUyW2SpQ8QNY6ls</string>
+    <string name="google_storage_bucket" translatable="false">nichrome-final.appspot.com</string>
+    <string name="project_id" translatable="false">nichrome-final</string>
+</resources>

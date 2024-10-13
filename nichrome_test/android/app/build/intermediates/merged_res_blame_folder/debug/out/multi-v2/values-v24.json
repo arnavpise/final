@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.nichrome_test.app-mergeDebugResources-56:/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\arnav\\.gradle\\caches\\transforms-3\\b574301e693c9d3a08bd4d4cbfdf54de\\transformed\\appcompat-1.6.1\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                }
+            ]
+        }
+    ]
+}
